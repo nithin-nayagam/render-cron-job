@@ -1,0 +1,22 @@
+{
+  "name": "render-cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithin-nayagam/render-cron-job.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithin-nayagam/render-cron-job/issues"
+  },
+  "homepage": "https://github.com/nithin-nayagam/render-cron-job#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
